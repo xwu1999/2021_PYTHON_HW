@@ -1,0 +1,25 @@
+Year,Operating System2,count
+2000,AIX,7
+2000,HI-UX/MPP,5
+2000,IRIX,2
+2000,ParagonOS,2
+2000,UNICOS,4
+2005,AIX,1
+2005,CNK/SLES9,8
+2005,Linux,6
+2005,Super-UX,2
+2005,UNICOS,1
+2005,UNICOS/Linux,2
+2010,CNK/SLES9,4
+2010,CentOS,1
+2010,CrayLinuxEnvironment,2
+2010,Linux,13
+2015,CrayLinuxEnvironment,8
+2015,KylinLinux,2
+2015,Linux,10
+2020,CentOS,5
+2020,CrayLinuxEnvironment,1
+2020,KylinLinux,2
+2020,RedHat,8
+2020,SunwayRaiseOS2.0.5,2
+2020,Ubuntu,2

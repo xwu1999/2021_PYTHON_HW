@@ -1,0 +1,441 @@
+Year,Month,Rank,Country,Cores,Rmax (GFlop/s),Rpeak (GFlop/s),Power (kW),Manufacturer,Operating System,Memory,Processor,Rmax (TFlop/s),Rpeak (TFlop/s)
+2000,6,1,United States,"9,632","2,379.0","3,207.0",,Intel,ParagonOS,0GB,PentiumPro333MHz,,
+2000,6,2,United States,"5,808","2,144.0","3,856.5",,IBM,AIX,0GB,PowerPC604e332MHz,,
+2000,6,3,United States,"6,144","1,608.0","3,072.0",,HPE,IRIX,0GB,R10000250MHz,,
+2000,6,4,United States,"1,336","1,417.0","2,004.0",,IBM,AIX,0GB,POWER3375MHz,,
+2000,6,5,Germany,112,"1,035.0","1,344.0",,Hitachi,HI-UX/MPP,0GB,HitachiSR8000375MHz,,
+2000,6,6,Japan,100,917.0,"1,200.0",,Hitachi,HI-UX/MPP,0GB,HitachiSR8000375MHz,,
+2000,6,7,United States,"1,084",891.0,"1,300.8",,Cray/HPE,UNICOS,0GB,EV56598MHz,,
+2000,6,8,United States,"1,084",891.0,"1,300.8",,Cray/HPE,UNICOS,0GB,EV56598MHz,,
+2000,6,9,Japan,128,873.0,"1,024.0",,Hitachi,HI-UX/MPP,0GB,HitachiSR8000250MHz,,
+2000,6,10,United States,"1,324",815.0,"1,191.6",,Cray/HPE,UNICOS,0GB,EV5450MHz,,
+2000,11,1,United States,"8,192","4,938.0","12,288.0",,IBM,AIX,0GB,POWER3375MHz,,
+2000,11,2,United States,"9,632","2,379.0","3,207.0",,Intel,ParagonOS,0GB,PentiumPro333MHz,,
+2000,11,3,United States,"5,808","2,144.0","3,856.5",,IBM,AIX,0GB,PowerPC604e332MHz,,
+2000,11,4,United States,"6,144","1,608.0","3,072.0",,HPE,IRIX,0GB,R10000250MHz,,
+2000,11,5,United States,"1,336","1,417.0","2,004.0",,IBM,AIX,0GB,POWER3375MHz,,
+2000,11,6,United States,"1,104","1,179.0","1,656.0",,IBM,AIX,0GB,POWER3375MHz,,
+2000,11,7,Germany,112,"1,035.0","1,344.0",,Hitachi,HI-UX/MPP,0GB,HitachiSR8000375MHz,,
+2000,11,8,United States,"1,152",929.0,"1,728.0",,IBM,AIX,0GB,POWER3375MHz,,
+2000,11,9,Japan,100,917.0,"1,200.0",,Hitachi,HI-UX/MPP,0GB,HitachiSR8000375MHz,,
+2000,11,10,United States,"1,084",892.0,"1,300.8",,Cray/HPE,UNICOS,0GB,EV56598MHz,,
+2001,6,1,United States,"8,192","7,226.0","12,288.0",,IBM,AIX,0GB,POWER3375MHz,,
+2001,6,2,United States,"2,528","2,526.0","3,792.0",,IBM,AIX,0GB,POWER3375MHz,,
+2001,6,3,United States,"9,632","2,379.0","3,207.0",,Intel,ParagonOS,0GB,PentiumPro333MHz,,
+2001,6,4,United States,"5,808","2,144.0","3,856.5",,IBM,AIX,0GB,PowerPC604e332MHz,,
+2001,6,5,Japan,"1,152","1,709.1","2,074.0",,Hitachi,HI-UX/MPP,0GB,HitachiSR8000450MHz,,
+2001,6,6,United States,"6,144","1,608.0","3,072.0",,HPE,IRIX,0GB,R10000250MHz,,
+2001,6,7,United States,"1,336","1,417.0","2,004.0",,IBM,AIX,0GB,POWER3375MHz,,
+2001,6,8,Japan,128,"1,192.0","1,280.0",,NEC,Super-UX,0GB,NEC312MHz,,
+2001,6,9,United States,"1,104","1,179.0","1,656.0",,IBM,AIX,0GB,POWER3375MHz,,
+2001,6,10,United States,"1,104","1,179.0","1,656.0",,IBM,AIX,0GB,POWER3375MHz,,
+2001,11,1,United States,"8,192","7,226.0","12,288.0",,IBM,AIX,0GB,POWER3375MHz,,
+2001,11,2,United States,"3,024","4,059.0","6,048.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2001,11,3,United States,"3,328","3,052.0","4,992.0",,IBM,AIX,0GB,POWER3375MHz,,
+2001,11,4,United States,"9,632","2,379.0","3,207.0",,Intel,ParagonOS,0GB,PentiumPro333MHz,,
+2001,11,5,United States,"5,808","2,144.0","3,856.5",,IBM,AIX,0GB,PowerPC604e332MHz,,
+2001,11,6,United States,"1,536","2,096.0","3,072.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2001,11,7,Japan,"1,152","1,709.1","2,074.0",,Hitachi,HI-UX/MPP,0GB,HitachiSR8000450MHz,,
+2001,11,8,United States,"6,144","1,608.0","3,072.0",,HPE,IRIX,0GB,R10000250MHz,,
+2001,11,9,United States,"1,336","1,417.0","2,004.0",,IBM,AIX,0GB,POWER3375MHz,,
+2001,11,10,Germany,"1,280","1,293.0","1,920.0",,IBM,AIX,0GB,POWER3375MHz,,
+2002,6,1,Japan,"5,120","35,860.0","40,960.0","3,200",NEC,Super-UX,0GB,NEC1GHz,,
+2002,6,2,United States,"8,192","7,226.0","12,288.0",,IBM,AIX,0GB,POWER3375MHz,,
+2002,6,3,United States,"3,016","4,463.0","6,032.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2002,6,4,France,"2,560","3,980.0","5,120.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2002,6,5,United States,"3,328","3,052.0","4,992.0",,IBM,AIX,0GB,POWER3375MHz,,
+2002,6,6,United States,"2,048","2,916.0","4,096.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2002,6,7,United States,"9,632","2,379.0","3,207.0",,Intel,ParagonOS,0GB,PentiumPro333MHz,,
+2002,6,8,United States,864,"2,310.0","4,492.8",,IBM,AIX,0GB,POWER42C1.3GHz,,
+2002,6,9,United States,"5,808","2,144.0","3,856.5",,IBM,AIX,0GB,PowerPC604e332MHz,,
+2002,6,10,United States,768,"2,050.0","3,993.6",,IBM,AIX,0GB,POWER42C1.3GHz,,
+2002,11,1,Japan,"5,120","35,860.0","40,960.0","3,200",NEC,Super-UX,0GB,NEC1GHz,,
+2002,11,2,United States,"4,096","7,727.0","10,240.0",,HP,Tru64UNIX,0GB,Alpha1.25GHz,,
+2002,11,3,United States,"4,096","7,727.0","10,240.0",,HP,Tru64UNIX,0GB,Alpha1.25GHz,,
+2002,11,4,United States,"8,192","7,226.0","12,288.0",,IBM,AIX,0GB,POWER3375MHz,,
+2002,11,5,United States,"2,304","5,694.0","11,060.0",,LinuxNetworx/Quadrics,Linux,0GB,Pentium4Xeon2.4GHz,,
+2002,11,6,United States,"3,016","4,463.0","6,032.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2002,11,7,France,"2,560","3,980.0","5,120.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2002,11,8,United States,"1,536","3,337.0","6,758.0",,HPTi,Linux,0GB,Pentium4Xeon2.2GHz,,
+2002,11,9,United Kingdom,"1,280","3,241.0","6,656.0",,IBM,AIX,0GB,POWER42C1.3GHz,,
+2002,11,10,United States,"1,216","3,164.0","6,323.0",,IBM,AIX,0GB,POWER42C1.3GHz,,
+2003,6,1,Japan,"5,120","35,860.0","40,960.0","3,200",NEC,Super-UX,0GB,NEC1GHz,,
+2003,6,2,United States,"8,192","13,880.0","20,480.0",,HP,Tru64UNIX,0GB,Alpha1.25GHz,,
+2003,6,3,United States,"2,304","7,634.0","11,060.0",,LinuxNetworx/Quadrics,Linux,0GB,Pentium4Xeon2.4GHz,,
+2003,6,4,United States,"8,192","7,304.0","12,288.0",,IBM,AIX,0GB,POWER3375MHz,,
+2003,6,5,United States,"6,656","7,304.0","9,984.0",,IBM,AIX,0GB,POWER3375MHz,,
+2003,6,6,United States,"1,920","6,586.0","9,216.0",,IBM/Quadrics,Linux,0GB,Pentium4Xeon2.4GHz,,
+2003,6,7,Japan,"2,304","5,406.0","11,980.0",,Fujitsu,Solaris,0GB,SPARC64V1.3GHz,,
+2003,6,8,United States,"1,540","4,881.0","6,160.0",,HP,Linux,0GB,Itanium21GHz,,
+2003,6,9,United States,"3,016","4,463.0","6,032.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2003,6,10,France,"2,560","3,980.0","5,120.0",,HP,Tru64UNIX,0GB,Alpha1GHz,,
+2003,11,1,Japan,"5,120","35,860.0","40,960.0","3,200",NEC,Super-UX,0GB,NEC1GHz,,
+2003,11,2,United States,"8,192","13,880.0","20,480.0",,HP,Tru64UNIX,0GB,Alpha1.25GHz,,
+2003,11,3,United States,"2,200","10,280.0","17,600.0",,Self-made,MacOSX,0GB,PowerPC9702C2GHz,,
+2003,11,4,United States,"2,500","9,819.0","15,300.0",,DELLEMC,Linux,0GB,Pentium4Xeon3.06GHz,,
+2003,11,5,United States,"1,936","8,633.0","11,616.0",,HPE,Linux,0GB,Itanium21.5GHz,,
+2003,11,6,United States,"2,816","8,051.0","11,264.0",,LNXI,Linux,0GB,Opteron2GHz,,
+2003,11,7,United States,"2,304","7,634.0","11,060.0",,LinuxNetworx/Quadrics,Linux,0GB,Pentium4Xeon2.4GHz,,
+2003,11,8,United States,"8,192","7,304.0","12,288.0",,IBM,AIX,0GB,POWER3375MHz,,
+2003,11,9,United States,"6,656","7,304.0","9,984.0",,IBM,AIX,0GB,POWER3375MHz,,
+2003,11,10,United States,"1,920","6,586.0","9,216.0",,IBM/Quadrics,Linux,0GB,Pentium4Xeon2.4GHz,,
+2004,6,1,Japan,"5,120","35,860.0","40,960.0","3,200",NEC,Super-UX,0GB,NEC1GHz,,
+2004,6,2,United States,"4,096","19,940.0","22,938.0",,CaliforniaDigitalCorporation,Linux,0GB,Itanium21.4GHz,,
+2004,6,3,United States,"8,192","13,880.0","20,480.0",,HP,Tru64UNIX,0GB,Alpha1.25GHz,,
+2004,6,4,United States,"8,192","11,680.0","16,384.0",,IBM/LLNL,Linux,0GB,PowerPC4402C500MHz,,
+2004,6,5,United States,"2,500","9,819.0","15,300.0",,DELLEMC,Linux,0GB,Pentium4Xeon3.06GHz,,
+2004,6,6,United Kingdom,"2,112","8,955.0","16,051.0",,IBM,AIX,0GB,POWER4+2C1.9GHz,,
+2004,6,7,Japan,"2,048","8,728.0","12,534.0",,Fujitsu,Linux,0GB,Pentium4Xeon3.06GHz,,
+2004,6,8,United States,"4,096","8,655.0","11,469.0",,IBM/LLNL,Linux,0GB,PowerPC4402C700MHz,,
+2004,6,9,United States,"1,936","8,633.0","11,616.0",,HPE,Linux,0GB,Itanium21.5GHz,,
+2004,6,10,China,"2,560","8,061.0","11,264.0",,Dawning,Linux,0GB,Opteron2.2GHz,,
+2004,11,1,United States,"32,768","70,720.0","91,750.0",,IBM,Linux,0GB,PowerPC4402C700MHz,,
+2004,11,2,United States,"10,160","51,870.0","60,960.0",,HPE,Linux,0GB,Itanium2Montecito2C1.6GHz,,
+2004,11,3,Japan,"5,120","35,860.0","40,960.0","3,200",NEC,Super-UX,0GB,NEC1GHz,,
+2004,11,4,Spain,"3,564","20,530.0","31,363.0",,IBM,Linux,0GB,PowerPC9702C2.2GHz,,
+2004,11,5,United States,"4,096","19,940.0","22,938.0",,CaliforniaDigitalCorporation,Linux,0GB,Itanium21.4GHz,,
+2004,11,6,United States,"8,192","13,880.0","20,480.0",,HP,Tru64UNIX,0GB,Alpha1.25GHz,,
+2004,11,7,United States,"2,200","12,250.0","20,240.0",,Self-made,MacOSX,0GB,PowerPC9702C2.3GHz,,
+2004,11,8,United States,"8,192","11,680.0","16,384.0",,IBM/LLNL,Linux,0GB,PowerPC4402C500MHz,,
+2004,11,9,United States,"2,944","10,310.0","20,019.2",,IBM,AIX,0GB,POWER4+2C1.7GHz,,
+2004,11,10,United States,"2,500","9,819.0","15,300.0",,DELLEMC,Linux,0GB,Pentium4Xeon3.06GHz,,
+2005,6,1,United States,"65,536",,,716,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,136.8,183.5
+2005,6,2,United States,"40,960",,,448,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,91.3,114.7
+2005,6,3,United States,"10,160",,,,HPE,Linux,0GB,Itanium2Montecito2C1.6GHz,51.9,61.0
+2005,6,4,Japan,"5,120",,,"3,200",NEC,Super-UX,0GB,NEC1GHz,35.9,41.0
+2005,6,5,Spain,"4,800",,,,IBM,Linux,0GB,PowerPC9702C2.2GHz,27.9,42.1
+2005,6,6,Netherlands,"12,288",,,134,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,27.4,34.4
+2005,6,7,United States,"4,096",,,,CaliforniaDigitalCorporation,Linux,0GB,Itanium21.4GHz,19.9,22.9
+2005,6,8,Japan,"8,192",,,89,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,18.2,22.9
+2005,6,9,Switzerland,"8,192",,,89,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,18.2,22.9
+2005,6,10,United States,"5,000",,,,Cray/HPE,UNICOS/Linux,0GB,Opteron2GHz,15.2,20.0
+2005,11,1,United States,"131,072",,,"1,433",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,280.6,367.0
+2005,11,2,United States,"40,960",,,448,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,91.3,114.7
+2005,11,3,United States,"10,240",,,"1,671",IBM,AIX,0GB,POWER52C1.9GHz,63.4,77.8
+2005,11,4,United States,"10,160",,,,HPE,Linux,0GB,Itanium2Montecito2C1.6GHz,51.9,61.0
+2005,11,5,United States,"8,000",,,,DELLEMC,Linux,0GB,XeonEM64T3.6GHz,38.3,57.6
+2005,11,6,United States,"10,880",,,,Cray/HPE,UNICOS/Linux,0GB,Opteron2GHz,36.2,43.5
+2005,11,7,Japan,"5,120",,,"3,200",NEC,Super-UX,0GB,NEC1GHz,35.9,41.0
+2005,11,8,Spain,"4,800",,,,IBM,Linux,0GB,PowerPC9702C2.2GHz,27.9,42.1
+2005,11,9,Netherlands,"12,288",,,134,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,27.4,34.4
+2005,11,10,United States,"5,200",,,,Cray/HPE,UNICOS,0GB,Opteron2.4GHz,20.5,25.0
+2006,6,1,United States,"131,072",,,"1,433",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,280.6,367.0
+2006,6,2,United States,"40,960",,,448,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,91.3,114.7
+2006,6,3,United States,"12,208",,,"1,992",IBM,AIX,0GB,POWER52C1.9GHz,75.8,92.8
+2006,6,4,United States,"10,160",,,,HPE,Linux,0GB,Itanium2Montecito2C1.6GHz,51.9,61.0
+2006,6,5,France,"8,704",,,,Atos,Linux,0GB,Itanium2Montecito2C1.6GHz,42.9,55.7
+2006,6,6,United States,"9,024",,,,DELLEMC,Linux,0GB,XeonEM64T3.6GHz,38.3,65.0
+2006,6,7,Japan,"10,368",,,,NEC/Sun,Linux,0GB,OpteronDualCore2C2.4GHz,38.2,49.9
+2006,6,8,Germany,"16,384",,,179,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,37.3,45.9
+2006,6,9,United States,"10,880",,,,Cray/HPE,UNICOS/Linux,0GB,Opteron2GHz,36.2,43.5
+2006,6,10,Japan,"5,120",,,"3,200",NEC,Super-UX,0GB,NEC1GHz,35.9,41.0
+2006,11,1,United States,"131,072",,,"1,433",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,280.6,367.0
+2006,11,2,United States,"26,544",,,,Cray/HPE,UNICOS,0GB,OpteronDualCore2C2.4GHz,101.4,127.4
+2006,11,3,United States,"40,960",,,448,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,91.3,114.7
+2006,11,4,United States,"12,208",,,"1,992",IBM,AIX,0GB,POWER52C1.9GHz,75.8,92.8
+2006,11,5,Spain,"10,240",,,,IBM,Linux,0GB,PowerPC9702C2.3GHz,62.6,94.2
+2006,11,6,United States,"9,024",,,,DELLEMC,Linux,0GB,XeonEM64T3.6GHz,53.0,65.0
+2006,11,7,France,"9,968",,,,Atos,Linux,0GB,Itanium2Montecito2C1.6GHz,52.8,63.8
+2006,11,8,United States,"10,160",,,,HPE,Linux,0GB,Itanium2Montecito2C1.6GHz,51.9,61.0
+2006,11,9,Japan,"11,088",,,,NEC/Sun,Linux,0GB,OpteronDualCore2C2.4GHz,47.4,82.1
+2006,11,10,United States,"10,424",,,,Cray/HPE,UNICOS/Linux,0GB,OpteronDualCore2C2.6GHz,43.5,54.2
+2007,6,1,United States,"131,072",,,"1,433",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,280.6,367.0
+2007,6,2,United States,"23,016",,,,Cray/HPE,UNICOS/SUSELinux,0GB,OpteronDualCore2C2.6GHz,101.7,119.3
+2007,6,3,United States,"26,544",,,,Cray/HPE,UNICOS,0GB,OpteronDualCore2C2.4GHz,101.4,127.4
+2007,6,4,United States,"40,960",,,448,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,91.3,114.7
+2007,6,5,United States,"36,864",,,403,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,82.2,103.2
+2007,6,6,United States,"12,208",,,"1,992",IBM,AIX,0GB,POWER52C1.9GHz,75.8,92.8
+2007,6,7,United States,"32,768",,,358,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,73.0,91.8
+2007,6,8,United States,"9,600",,,,DELLEMC,Linux,0GB,XeonE53454C2.33GHz,62.7,89.6
+2007,6,9,Spain,"10,240",,,,IBM,Linux,0GB,PowerPC9702C2.3GHz,62.6,94.2
+2007,6,10,Germany,"9,728",,,990,HPE,SUSELinuxEnterpriseServer10,0GB,Itanium2Montecito2C1.6GHz,56.5,62.3
+2007,11,1,United States,"212,992",,,"2,329",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,478.2,596.4
+2007,11,2,Germany,"65,536",,,504,IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,167.3,222.8
+2007,11,3,United States,"14,336",,,,HPE,SLES10+SGIProPack5,0GB,XeonX53654C3GHz,126.9,172.0
+2007,11,4,India,"14,240",,,,HPE,Linux,0GB,XeonX53654C3GHz,117.9,170.9
+2007,11,5,Sweden,"13,728",,,,HPE,Linux,0GB,XeonX53554C2.67GHz,102.8,146.4
+2007,11,6,United States,"26,569",,,,Cray/HPE,UNICOS,0GB,OpteronDualCore2C2.4GHz,102.2,127.5
+2007,11,7,United States,"23,016",,,,Cray/HPE,UNICOS/SUSELinux,0GB,OpteronDualCore2C2.6GHz,101.7,119.3
+2007,11,8,United States,"40,960",,,448,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,91.3,114.7
+2007,11,9,United States,"19,320",,,"1,150",Cray/HPE,UNICOS/Linux,0GB,OpteronDualCore2C2.6GHz,85.4,100.5
+2007,11,10,United States,"36,864",,,403,IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,82.2,103.2
+2008,6,1,United States,"122,400",,,"2,345",IBM,Linux,0GB,PowerXCell8i9C3.2GHz,"1,026.0","1,375.8"
+2008,6,2,United States,"212,992",,,"2,329",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,478.2,596.4
+2008,6,3,United States,"66,000",,,,Cray/HPE,CNL,0GB,OpteronQuadCore4C2.3GHz,463.3,607.2
+2008,6,4,United States,"163,840",,,"1,260",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,450.3,557.1
+2008,6,5,United States,"62,976",,,"2,000",Sun,Linux,0GB,OpteronQuadCore4C2GHz,326.0,503.8
+2008,6,6,United States,"30,976",,,"1,580",Cray/HPE,CNL,0GB,OpteronQuadCore4C2.1GHz,205.0,260.2
+2008,6,7,Germany,"65,536",,,504,IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,180.0,222.8
+2008,6,8,United States,"14,336",,,861,HPE,SLES10+SGIProPack5,0GB,XeonX53654C3GHz,133.2,172.0
+2008,6,9,India,"14,384",,,786,HPE,Linux,0GB,XeonX53654C3GHz,132.8,172.6
+2008,6,10,France,"40,960",,,315,IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,112.5,139.3
+2008,11,1,United States,"129,600",,,"2,483",IBM,Linux,0GB,PowerXCell8i9C3.2GHz,"1,105.0","1,456.7"
+2008,11,2,United States,"150,152",,,"6,950",Cray/HPE,CNL,0GB,OpteronQuadCore4C2.3GHz,"1,059.0","1,381.4"
+2008,11,3,United States,"51,200",,,"2,090",HPE,SLES10+SGIProPack5,0GB,XeonE54504C3GHz,487.0,608.8
+2008,11,4,United States,"212,992",,,"2,329",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,478.2,596.4
+2008,11,5,United States,"66,000",,,,Cray/HPE,CNL,0GB,OpteronQuadCore4C2.3GHz,463.3,607.2
+2008,11,6,United States,"163,840",,,"1,260",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,450.3,557.1
+2008,11,7,United States,"62,976",,,"2,000",Sun,Linux,0GB,OpteronQuadCore4C2.3GHz,433.2,579.4
+2008,11,8,United States,"38,642",,,"1,150",Cray/HPE,CNL,0GB,OpteronQuadCore4C2.3GHz,266.3,355.5
+2008,11,9,United States,"30,976",,,"1,580",Cray/HPE,CNL,0GB,OpteronQuadCore4C2.1GHz,205.0,260.2
+2008,11,10,United States,"38,208",,,"2,506",Cray/HPE,UNICOS,0GB,OpteronDualCore2C2.4GHz,204.2,284.0
+2009,6,1,United States,"129,600",,,"2,483",IBM,Linux,0GB,PowerXCell8i9C3.2GHz,"1,105.0","1,456.7"
+2009,6,2,United States,"150,152",,,"6,950",Cray/HPE,CNL,0GB,OpteronQuadCore4C2.3GHz,"1,059.0","1,381.4"
+2009,6,3,Germany,"294,912",,,"2,268",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,825.5,"1,002.7"
+2009,6,4,United States,"51,200",,,"2,090",HPE,SLES10+SGIProPack5,0GB,XeonE54504C3GHz,487.0,608.8
+2009,6,5,United States,"212,992",,,"2,329",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,478.2,596.4
+2009,6,6,United States,"66,000",,,,Cray/HPE,CNL,0GB,OpteronQuadCore4C2.3GHz,463.3,607.2
+2009,6,7,United States,"163,840",,,"1,260",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,458.6,557.1
+2009,6,8,United States,"62,976",,,"2,000",Sun,Linux,0GB,OpteronQuadCore4C2.3GHz,433.2,579.4
+2009,6,9,United States,"147,456",,,"1,134",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,415.7,501.4
+2009,6,10,Germany,"26,304",,,"1,549",Atos,SUSELinux,0GB,XeonX55704C2.93GHz,274.8,308.3
+2009,11,1,United States,"224,162",,,"6,950",Cray/HPE,CrayLinuxEnvironment,"598,016GB",Opteron627416C2.2GHz,"1,759.0","2,331.0"
+2009,11,2,United States,"122,400",,,"2,345",IBM,Linux,0GB,PowerXCell8i9C3.2GHz,"1,042.0","1,375.8"
+2009,11,3,United States,"98,928",,,"3,090",Cray/HPE,Linux,0GB,OpteronSixCore6C2.6GHz,831.7,"1,028.9"
+2009,11,4,Germany,"294,912",,,"2,268",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,825.5,"1,002.7"
+2009,11,5,China,"71,680",,,,NUDT,Linux,0GB,XeonE55404C2.53GHz,563.1,"1,206.2"
+2009,11,6,United States,"56,320",,,"2,348",HPE,SLES10+SGIProPack5,0GB,XeonE54504C3GHz,544.3,673.3
+2009,11,7,United States,"212,992",,,"2,329",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,478.2,596.4
+2009,11,8,United States,"163,840",,,"1,260",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,458.6,557.1
+2009,11,9,United States,"62,976",,,"2,000",Sun,Linux,0GB,OpteronQuadCore4C2.3GHz,433.2,579.4
+2009,11,10,United States,"41,616",,,,Sun,CentOS,0GB,XeonX55704C2.93GHz,423.9,487.7
+2010,6,1,United States,"224,162",,,"6,950",Cray/HPE,CrayLinuxEnvironment,"598,016GB",Opteron627416C2.2GHz,"1,759.0","2,331.0"
+2010,6,2,China,"120,640",,,"2,580",Sugon,Linux,0GB,XeonX56506C2.66GHz,"1,271.0","2,984.3"
+2010,6,3,United States,"122,400",,,"2,345",IBM,Linux,0GB,PowerXCell8i9C3.2GHz,"1,042.0","1,375.8"
+2010,6,4,United States,"98,928",,,"3,090",Cray/HPE,Linux,0GB,OpteronSixCore6C2.6GHz,831.7,"1,028.9"
+2010,6,5,Germany,"294,912",,,"2,268",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,825.5,"1,002.7"
+2010,6,6,United States,"81,920",,,"3,096",HPE,Linux,0GB,XeonE54504C3GHz,772.7,973.3
+2010,6,7,China,"71,680",,,,NUDT,Linux,0GB,XeonE55404C2.53GHz,563.1,"1,206.2"
+2010,6,8,United States,"212,992",,,"2,329",IBM,CNK/SLES9,0GB,PowerPC4402C700MHz,478.2,596.4
+2010,6,9,United States,"163,840",,,"1,260",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,458.6,557.1
+2010,6,10,United States,"42,440",,,"4,344",Sun,CentOS,0GB,XeonX55704C2.93GHz,433.5,497.4
+2010,11,1,China,"186,368",,,"4,040",NUDT,Linux,0GB,XeonX56706C2.93GHz,"2,566.0","4,701.0"
+2010,11,2,United States,"224,162",,,"6,950",Cray/HPE,CrayLinuxEnvironment,"598,016GB",Opteron627416C2.2GHz,"1,759.0","2,331.0"
+2010,11,3,China,"120,640",,,"2,580",Sugon,Linux,0GB,XeonX56506C2.66GHz,"1,271.0","2,984.3"
+2010,11,4,Japan,"73,278",,,"1,399",NEC/HPE,Linux,"90,919GB",XeonX56706C2.93GHz,"1,192.0","2,287.6"
+2010,11,5,United States,"153,408",,,"2,910",Cray/HPE,Linux,0GB,Opteron617212C2.1GHz,"1,054.0","1,288.6"
+2010,11,6,France,"138,368",,,"4,590",Atos,Linux,0GB,XeonX75608C2.26GHz,"1,050.0","1,254.5"
+2010,11,7,United States,"122,400",,,"2,345",IBM,Linux,0GB,PowerXCell8i9C3.2GHz,"1,042.0","1,375.8"
+2010,11,8,United States,"98,928",,,"3,090",Cray/HPE,Linux,0GB,OpteronSixCore6C2.6GHz,831.7,"1,028.9"
+2010,11,9,Germany,"294,912",,,"2,268",IBM,CNK/SLES9,0GB,PowerPC4504C850MHz,825.5,"1,002.7"
+2010,11,10,United States,"107,152",,,"2,950",Cray/HPE,Linux,0GB,Opteron61368C2.4GHz,816.6,"1,028.7"
+2011,6,1,Japan,"548,352",,,"9,899",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"8,162.0","8,773.6"
+2011,6,2,China,"186,368",,,"4,040",NUDT,Linux,0GB,XeonX56706C2.93GHz,"2,566.0","4,701.0"
+2011,6,3,United States,"224,162",,,"6,950",Cray/HPE,CrayLinuxEnvironment,"598,016GB",Opteron627416C2.2GHz,"1,759.0","2,331.0"
+2011,6,4,China,"120,640",,,"2,580",Sugon,Linux,0GB,XeonX56506C2.66GHz,"1,271.0","2,984.3"
+2011,6,5,Japan,"73,278",,,"1,399",NEC/HPE,Linux,"90,919GB",XeonX56706C2.93GHz,"1,192.0","2,287.6"
+2011,6,6,United States,"142,272",,,"3,980",Cray/HPE,Linux,0GB,Opteron61368C2.4GHz,"1,110.0","1,365.8"
+2011,6,7,United States,"111,104",,,"4,102",HPE,SUSELinuxEnterpriseServer11,"211,968GB",IntelXeonE5-2680v210C2.8GHz,"1,088.0","1,315.3"
+2011,6,8,United States,"153,408",,,"2,910",Cray/HPE,Linux,0GB,Opteron617212C2.1GHz,"1,054.0","1,288.6"
+2011,6,9,France,"138,368",,,"4,590",Atos,Linux,0GB,XeonX75608C2.26GHz,"1,050.0","1,254.5"
+2011,6,10,United States,"122,400",,,"2,345",IBM,Linux,0GB,PowerXCell8i9C3.2GHz,"1,042.0","1,375.8"
+2011,11,1,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2011,11,2,China,"186,368",,,"4,040",NUDT,Linux,0GB,XeonX56706C2.93GHz,"2,566.0","4,701.0"
+2011,11,3,United States,"224,162",,,"6,950",Cray/HPE,CrayLinuxEnvironment,"598,016GB",Opteron627416C2.2GHz,"1,759.0","2,331.0"
+2011,11,4,China,"120,640",,,"2,580",Sugon,Linux,0GB,XeonX56506C2.66GHz,"1,271.0","2,984.3"
+2011,11,5,Japan,"73,278",,,"1,399",NEC/HPE,Linux,"90,919GB",XeonX56706C2.93GHz,"1,192.0","2,287.6"
+2011,11,6,United States,"142,272",,,"3,980",Cray/HPE,Linux,0GB,Opteron61368C2.4GHz,"1,110.0","1,365.8"
+2011,11,7,United States,"111,104",,,"4,102",HPE,SUSELinuxEnterpriseServer11,"211,968GB",IntelXeonE5-2680v210C2.8GHz,"1,088.0","1,315.3"
+2011,11,8,United States,"153,408",,,"2,910",Cray/HPE,Linux,0GB,Opteron617212C2.1GHz,"1,054.0","1,288.6"
+2011,11,9,France,"138,368",,,"4,590",Atos,Linux,0GB,XeonX75608C2.26GHz,"1,050.0","1,254.5"
+2011,11,10,United States,"122,400",,,"2,345",IBM,Linux,0GB,PowerXCell8i9C3.2GHz,"1,042.0","1,375.8"
+2012,6,1,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"16,324.8","20,132.7"
+2012,6,2,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2012,6,3,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,162.4","10,066.3"
+2012,6,4,Germany,"147,456",,,"3,423",IBM/Lenovo,Linux,0GB,XeonE5-26808C2.7GHz,"2,897.0","3,185.1"
+2012,6,5,China,"186,368",,,"4,040",NUDT,Linux,0GB,XeonX56706C2.93GHz,"2,566.0","4,701.0"
+2012,6,6,United States,"298,592",,,"5,142",Cray/HPE,CrayLinuxEnvironment,"598,016GB",Opteron627416C2.2GHz,"1,941.0","2,627.6"
+2012,6,7,Italy,"163,840",,,822,IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"1,725.5","2,097.2"
+2012,6,8,Germany,"131,072",,,658,IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"1,380.4","1,677.7"
+2012,6,9,France,"77,184",,,"2,132",Atos,bullxSUperCOmputerSuiteA.E.2.1,"72,576GB",XeonE5-26808C2.7GHz,"1,359.0","1,667.2"
+2012,6,10,China,"120,640",,,"2,580",Sugon,Linux,0GB,XeonX56506C2.66GHz,"1,271.0","2,984.3"
+2012,11,1,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2012,11,2,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"16,324.8","20,132.7"
+2012,11,3,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2012,11,4,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,162.4","10,066.3"
+2012,11,5,Germany,"393,216",,,"1,970",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"4,141.2","5,033.2"
+2012,11,6,Germany,"147,456",,,"3,423",IBM/Lenovo,Linux,0GB,XeonE5-26808C2.7GHz,"2,897.0","3,185.1"
+2012,11,7,United States,"204,900",,,,DELLEMC,Linux,"204,800GB",XeonE5-26808C2.7GHz,"2,660.3","3,959.0"
+2012,11,8,China,"186,368",,,"4,040",NUDT,Linux,0GB,XeonX56706C2.93GHz,"2,566.0","4,701.0"
+2012,11,9,Italy,"163,840",,,822,IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"1,725.5","2,097.2"
+2012,11,10,United States,"63,360",,,"3,576",IBM,Linux,0GB,POWER78C3.84GHz,"1,515.0","1,944.4"
+2013,6,1,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2013,6,2,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2013,6,3,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2013,6,4,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2013,6,5,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2013,6,6,United States,"462,462",,,"4,510",DELLEMC,Linux,"204,800GB",XeonE5-26808C2.7GHz,"5,168.1","8,520.1"
+2013,6,7,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2013,6,8,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2013,6,9,United States,"393,216",,,"1,972",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"4,293.3","5,033.2"
+2013,6,10,Germany,"147,456",,,"3,423",IBM/Lenovo,Linux,0GB,XeonE5-26808C2.7GHz,"2,897.0","3,185.1"
+2013,11,1,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2013,11,2,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2013,11,3,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2013,11,4,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2013,11,5,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2013,11,6,Switzerland,"115,984",,,"1,754",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"6,271.0","7,788.9"
+2013,11,7,United States,"462,462",,,"4,510",DELLEMC,Linux,"204,800GB",XeonE5-26808C2.7GHz,"5,168.1","8,520.1"
+2013,11,8,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2013,11,9,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2013,11,10,United States,"393,216",,,"1,972",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"4,293.3","5,033.2"
+2014,6,1,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2014,6,2,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2014,6,3,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2014,6,4,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2014,6,5,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2014,6,6,Switzerland,"115,984",,,"1,754",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"6,271.0","7,788.9"
+2014,6,7,United States,"462,462",,,"4,510",DELLEMC,Linux,"204,800GB",XeonE5-26808C2.7GHz,"5,168.1","8,520.1"
+2014,6,8,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2014,6,9,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2014,6,10,United States,"393,216",,,"1,972",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"4,293.3","5,033.2"
+2014,11,1,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2014,11,2,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2014,11,3,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2014,11,4,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2014,11,5,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2014,11,6,Switzerland,"115,984",,,"1,754",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"6,271.0","7,788.9"
+2014,11,7,United States,"462,462",,,"4,510",DELLEMC,Linux,"204,800GB",XeonE5-26808C2.7GHz,"5,168.1","8,520.1"
+2014,11,8,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2014,11,9,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2014,11,10,United States,"393,216",,,"1,972",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"4,293.3","5,033.2"
+2015,6,1,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2015,6,2,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2015,6,3,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2015,6,4,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2015,6,5,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2015,6,6,Switzerland,"115,984",,,"1,754",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"6,271.0","7,788.9"
+2015,6,7,Saudi Arabia,"196,608",,,"2,834",Cray/HPE,CrayLinuxEnvironment,0GB,XeonE5-2698v316C2.3GHz,"5,537.0","7,235.2"
+2015,6,8,United States,"462,462",,,"4,510",DELLEMC,Linux,"204,800GB",XeonE5-26808C2.7GHz,"5,168.1","8,520.1"
+2015,6,9,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2015,6,10,Germany,"458,752",,,"2,301",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"5,008.9","5,872.0"
+2015,11,1,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2015,11,2,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2015,11,3,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2015,11,4,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2015,11,5,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2015,11,6,United States,"301,056",,,"4,233",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"8,100.9","11,078.9"
+2015,11,7,Switzerland,"115,984",,,"1,754",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"6,271.0","7,788.9"
+2015,11,8,Germany,"185,088",,,"3,615",Cray/HPE,CrayLinuxEnvironment,0GB,XeonE5-2680v312C2.5GHz,"5,640.2","7,403.5"
+2015,11,9,Saudi Arabia,"196,608",,,"2,834",Cray/HPE,CrayLinuxEnvironment,0GB,XeonE5-2698v316C2.3GHz,"5,537.0","7,235.2"
+2015,11,10,United States,"462,462",,,"4,510",DELLEMC,Linux,"204,800GB",XeonE5-26808C2.7GHz,"5,168.1","8,520.1"
+2016,6,1,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2016,6,2,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2016,6,3,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2016,6,4,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2016,6,5,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2016,6,6,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2016,6,7,United States,"301,056",,,"4,233",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"8,100.9","11,078.9"
+2016,6,8,Switzerland,"115,984",,,"1,754",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"6,271.0","7,788.9"
+2016,6,9,Germany,"185,088",,,"3,615",Cray/HPE,CrayLinuxEnvironment,0GB,XeonE5-2680v312C2.5GHz,"5,640.2","7,403.5"
+2016,6,10,Saudi Arabia,"196,608",,,"2,834",Cray/HPE,CrayLinuxEnvironment,0GB,XeonE5-2698v316C2.3GHz,"5,537.0","7,235.2"
+2016,11,1,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2016,11,2,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2016,11,3,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2016,11,4,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2016,11,5,United States,"622,336",,,"3,939",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"14,014.7","27,880.7"
+2016,11,6,Japan,"556,104",,,"2,719",Fujitsu,Linux,"919,296GB",IntelXeonPhi725068C1.4GHz,"13,554.6","24,913.5"
+2016,11,7,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2016,11,8,Switzerland,"206,720",,,"1,312",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"9,779.0","15,988.0"
+2016,11,9,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2016,11,10,United States,"301,056",,,"4,233",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"8,100.9","11,078.9"
+2017,6,1,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2017,6,2,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2017,6,3,Switzerland,"361,760",,,"2,272",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"19,590.0","25,326.3"
+2017,6,4,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2017,6,5,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2017,6,6,United States,"622,336",,,"3,939",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"14,014.7","27,880.7"
+2017,6,7,Japan,"556,104",,,"2,719",Fujitsu,Linux,"919,296GB",IntelXeonPhi725068C1.4GHz,"13,554.6","24,913.5"
+2017,6,8,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2017,6,9,United States,"786,432",,,"3,945",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"8,586.6","10,066.3"
+2017,6,10,United States,"301,056",,,"4,233",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"8,100.9","11,078.9"
+2017,11,1,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2017,11,2,China,"3,120,000",,,"17,808",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"33,862.7","54,902.4"
+2017,11,3,Switzerland,"361,760",,,"2,272",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"19,590.0","25,326.3"
+2017,11,4,Japan,"19,860,000",,,"1,350",ExaScaler,CentOS,"575,552GB",XeonD-157116C1.3GHz,"19,135.8","28,192.0"
+2017,11,5,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2017,11,6,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2017,11,7,United States,"979,968",,,"3,844",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"14,137.3","43,902.6"
+2017,11,8,United States,"622,336",,,"3,939",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"14,014.7","27,880.7"
+2017,11,9,Japan,"556,104",,,"2,719",Fujitsu,Linux,"919,296GB",IntelXeonPhi725068C1.4GHz,"13,554.6","24,913.5"
+2017,11,10,Japan,"705,024",,,"12,660",Fujitsu,Linux,0GB,SPARC64VIIIfx8C2GHz,"10,510.0","11,280.4"
+2018,6,1,United States,"2,282,544",,,"8,806",IBM,RHEL7.4,"2,801,664GB",IBMPOWER922C3.07GHz,"122,300.0","187,659.3"
+2018,6,2,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2018,6,3,United States,"1,572,480",,,,IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"1,382,400GB",IBMPOWER922C3.1GHz,"71,610.0","119,193.6"
+2018,6,4,China,"4,981,760",,,"18,482",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"61,444.5","100,678.7"
+2018,6,5,Japan,"391,680",,,"1,649",Fujitsu,Linux,"417,792GB",XeonGold614820C2.4GHz,"19,880.0","32,576.6"
+2018,6,6,Switzerland,"361,760",,,"2,272",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"19,590.0","25,326.3"
+2018,6,7,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2018,6,8,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2018,6,9,United States,"979,968",,,"3,844",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"14,137.3","43,902.6"
+2018,6,10,United States,"622,336",,,"3,939",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"14,014.7","27,880.7"
+2018,11,1,United States,"2,397,824",,,"9,783",IBM,RHEL7.4,"2,801,664GB",IBMPOWER922C3.07GHz,"143,500.0","200,794.9"
+2018,11,2,United States,"1,572,480",,,"7,438",IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"1,382,400GB",IBMPOWER922C3.1GHz,"94,640.0","125,712.0"
+2018,11,3,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2018,11,4,China,"4,981,760",,,"18,482",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"61,444.5","100,678.7"
+2018,11,5,Switzerland,"387,872",,,"2,384",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"21,230.0","27,154.3"
+2018,11,6,United States,"979,072",,,"7,578",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"20,158.7","41,461.2"
+2018,11,7,Japan,"391,680",,,"1,649",Fujitsu,Linux,"417,792GB",XeonGold614820C2.4GHz,"19,880.0","32,576.6"
+2018,11,8,Germany,"305,856",,,,Lenovo,SUSELinuxEnterpriseServer12SP3,"75,840GB",XeonPlatinum817424C3.1GHz,"19,476.6","26,873.9"
+2018,11,9,United States,"560,640",,,"8,209",Cray/HPE,CrayLinuxEnvironment,"710,144GB",Opteron627416C2.2GHz,"17,590.0","27,112.5"
+2018,11,10,United States,"1,572,864",,,"7,890",IBM,Linux,"65,536GB",PowerBQC16C1.6GHz,"17,173.2","20,132.7"
+2019,6,1,United States,"2,414,592",,,"10,096",IBM,RHEL7.4,"2,801,664GB",IBMPOWER922C3.07GHz,"148,600.0","200,794.9"
+2019,6,2,United States,"1,572,480",,,"7,438",IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"1,382,400GB",IBMPOWER922C3.1GHz,"94,640.0","125,712.0"
+2019,6,3,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2019,6,4,China,"4,981,760",,,"18,482",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"61,444.5","100,678.7"
+2019,6,5,United States,"448,448",,,,DELLEMC,CentOSLinux7,"1,537,536GB",XeonPlatinum828028C2.7GHz,"23,516.4","38,745.9"
+2019,6,6,Switzerland,"387,872",,,"2,384",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"21,230.0","27,154.3"
+2019,6,7,United States,"979,072",,,"7,578",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"20,158.7","41,461.2"
+2019,6,8,Japan,"391,680",,,"1,649",Fujitsu,Linux,"417,792GB",XeonGold614820C2.4GHz,"19,880.0","32,576.6"
+2019,6,9,Germany,"305,856",,,,Lenovo,SUSELinuxEnterpriseServer12SP3,"75,840GB",XeonPlatinum817424C3.1GHz,"19,476.6","26,873.9"
+2019,6,10,United States,"288,288",,,,IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"253,440GB",IBMPOWER922C3.1GHz,"18,200.0","23,047.2"
+2019,11,1,United States,"2,414,592",,,"10,096",IBM,RHEL7.4,"2,801,664GB",IBMPOWER922C3.07GHz,"148,600.0","200,794.9"
+2019,11,2,United States,"1,572,480",,,"7,438",IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"1,382,400GB",IBMPOWER922C3.1GHz,"94,640.0","125,712.0"
+2019,11,3,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2019,11,4,China,"4,981,760",,,"18,482",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"61,444.5","100,678.7"
+2019,11,5,United States,"448,448",,,,DELLEMC,CentOSLinux7,"1,537,536GB",XeonPlatinum828028C2.7GHz,"23,516.4","38,745.9"
+2019,11,6,Switzerland,"387,872",,,"2,384",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"21,230.0","27,154.3"
+2019,11,7,United States,"979,072",,,"7,578",Cray/HPE,CrayLinuxEnvironment,0GB,IntelXeonPhi725068C1.4GHz,"20,158.7","41,461.2"
+2019,11,8,Japan,"391,680",,,"1,649",Fujitsu,Linux,"417,792GB",XeonGold614820C2.4GHz,"19,880.0","32,576.6"
+2019,11,9,Germany,"305,856",,,,Lenovo,SUSELinuxEnterpriseServer12SP3,"75,840GB",XeonPlatinum817424C3.1GHz,"19,476.6","26,873.9"
+2019,11,10,United States,"288,288",,,,IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"253,440GB",IBMPOWER922C3.1GHz,"18,200.0","23,047.2"
+2020,6,1,Japan,"7,299,072",,,"28,335",Fujitsu,RedHatEnterpriseLinux,"5,087,232GB",A64FX48C2.2GHz,"415,530.0","513,854.7"
+2020,6,2,United States,"2,414,592",,,"10,096",IBM,RHEL7.4,"2,801,664GB",IBMPOWER922C3.07GHz,"148,600.0","200,794.9"
+2020,6,3,United States,"1,572,480",,,"7,438",IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"1,382,400GB",IBMPOWER922C3.1GHz,"94,640.0","125,712.0"
+2020,6,4,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2020,6,5,China,"4,981,760",,,"18,482",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"61,444.5","100,678.7"
+2020,6,6,Italy,"669,760",,,"2,252",DELLEMC,CentOSLinux7,"349,440GB",XeonGold625224C2.1GHz,"35,450.0","51,720.8"
+2020,6,7,United States,"277,760",,,"1,344",Nvidia,Ubuntu20.04.1LTS,"1,120,000GB",AMDEPYC774264C2.25GHz,"27,580.0","34,568.6"
+2020,6,8,United States,"448,448",,,,DELLEMC,CentOSLinux7,"1,537,536GB",XeonPlatinum828028C2.7GHz,"23,516.4","38,745.9"
+2020,6,9,Italy,"347,776",,,"1,476",IBM,RHEL7.6,"252,928GB",IBMPOWER916C3GHz,"21,640.0","29,354.0"
+2020,6,10,Switzerland,"387,872",,,"2,384",Cray/HPE,CrayLinuxEnvironment,"365,056GB",XeonE5-2690v312C2.6GHz,"21,230.0","27,154.3"
+2020,11,1,Japan,"7,630,848",,,"29,899",Fujitsu,RedHatEnterpriseLinux,"5,087,232GB",A64FX48C2.2GHz,"442,010.0","537,212.0"
+2020,11,2,United States,"2,414,592",,,"10,096",IBM,RHEL7.4,"2,801,664GB",IBMPOWER922C3.07GHz,"148,600.0","200,794.9"
+2020,11,3,United States,"1,572,480",,,"7,438",IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"1,382,400GB",IBMPOWER922C3.1GHz,"94,640.0","125,712.0"
+2020,11,4,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2020,11,5,United States,"555,520",,,"2,646",Nvidia,Ubuntu20.04.1LTS,"1,120,000GB",AMDEPYC774264C2.25GHz,"63,460.0","79,215.0"
+2020,11,6,China,"4,981,760",,,"18,482",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"61,444.5","100,678.7"
+2020,11,7,Germany,"449,280",,,"1,764",Atos,CentOS,"628,992GB",AMDEPYC740224C2.8GHz,"44,120.0","70,980.0"
+2020,11,8,Italy,"669,760",,,"2,252",DELLEMC,CentOSLinux7,"349,440GB",XeonGold625224C2.1GHz,"35,450.0","51,720.8"
+2020,11,9,United States,"448,448",,,,DELLEMC,CentOSLinux7,"1,537,536GB",XeonPlatinum828028C2.7GHz,"23,516.4","38,745.9"
+2020,11,10,Saudi Arabia,"672,520",,,,HPE,RHEL7.7,"506,368GB",XeonGold624820C2.5GHz,"22,400.0","55,423.6"
+2021,6,1,Japan,"7,630,848",,,"29,899",Fujitsu,RedHatEnterpriseLinux,"5,087,232GB",A64FX48C2.2GHz,"442,010.0","537,212.0"
+2021,6,2,United States,"2,414,592",,,"10,096",IBM,RHEL7.4,"2,801,664GB",IBMPOWER922C3.07GHz,"148,600.0","200,794.9"
+2021,6,3,United States,"1,572,480",,,"7,438",IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"1,382,400GB",IBMPOWER922C3.1GHz,"94,640.0","125,712.0"
+2021,6,4,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2021,6,5,United States,"706,304",,,"2,528",HPE,HPECrayOS,"420,864GB",AMDEPYC776364C2.45GHz,"64,590.0","89,794.5"
+2021,6,6,United States,"555,520",,,"2,646",Nvidia,Ubuntu20.04.1LTS,"1,120,000GB",AMDEPYC774264C2.25GHz,"63,460.0","79,215.0"
+2021,6,7,China,"4,981,760",,,"18,482",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"61,444.5","100,678.7"
+2021,6,8,Germany,"449,280",,,"1,764",Atos,CentOS,"628,992GB",AMDEPYC740224C2.8GHz,"44,120.0","70,980.0"
+2021,6,9,Italy,"669,760",,,"2,252",DELLEMC,CentOSLinux7,"349,440GB",XeonGold625224C2.1GHz,"35,450.0","51,720.8"
+2021,6,10,United States,"448,448",,,,DELLEMC,CentOSLinux7,"1,537,536GB",XeonPlatinum828028C2.7GHz,"23,516.4","38,745.9"
+2021,11,1,Japan,"7,630,848",,,"29,899",Fujitsu,RedHatEnterpriseLinux,"5,087,232GB",A64FX48C2.2GHz,"442,010.0","537,212.0"
+2021,11,2,United States,"2,414,592",,,"10,096",IBM,RHEL7.4,"2,801,664GB",IBMPOWER922C3.07GHz,"148,600.0","200,794.9"
+2021,11,3,United States,"1,572,480",,,"7,438",IBM/NVIDIA/Mellanox,RedHatEnterpriseLinux,"1,382,400GB",IBMPOWER922C3.1GHz,"94,640.0","125,712.0"
+2021,11,4,China,"10,649,600",,,"15,371",NRCPC,SunwayRaiseOS2.0.5,"1,310,720GB",SunwaySW26010260C1.45GHz,"93,014.6","125,435.9"
+2021,11,5,United States,"761,856",,,"2,589",HPE,HPECrayOS,"420,864GB",AMDEPYC776364C2.45GHz,"70,870.0","93,750.0"
+2021,11,6,United States,"555,520",,,"2,646",Nvidia,Ubuntu20.04.1LTS,"1,120,000GB",AMDEPYC774264C2.25GHz,"63,460.0","79,215.0"
+2021,11,7,China,"4,981,760",,,"18,482",NUDT,KylinLinux,"2,277,376GB",IntelXeonE5-2692v212C2.2GHz,"61,444.5","100,678.7"
+2021,11,8,Germany,"449,280",,,"1,764",Atos,CentOS,"628,992GB",AMDEPYC740224C2.8GHz,"44,120.0","70,980.0"
+2021,11,9,Italy,"669,760",,,"2,252",DELLEMC,CentOSLinux7,"349,440GB",XeonGold625224C2.1GHz,"35,450.0","51,720.8"
+2021,11,10,United States,"253,440",,,,MicrosoftAzure,Ubuntu18.04LTS,"486,552GB",AMDEPYC7V1248C2.45GHz,"30,050.0","39,531.2"
